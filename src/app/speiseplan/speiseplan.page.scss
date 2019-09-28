@@ -2,3 +2,16 @@
     display: flex;
     flex-wrap: wrap;
 }
+.Bild{
+    height: 500px;
+    width: 500px;
+    object-fit: cover; 
+}
+.karte{
+    display:inline-block;
+    width: 500px;
+}
+.Preisanzeige{
+    color: green;
+    font-size: 25px;
+}
